@@ -1,0 +1,32 @@
+## Ignore Visual Studio user-specific files
+.vscode/
+*.user
+*.suo
+
+## Build results
+bin/
+obj/
+*.dll
+*.exe
+
+## Rider and VS Code
+.idea/
+.vscode/
+
+## NuGet
+*.nupkg
+packages/
+
+## Logs
+*.log
+
+## Secrets
+secrets.json
+
+appsettings.Development.json
+appsettings.Local.json
+appsettings.json
+
+
+node_modules/
+.next/

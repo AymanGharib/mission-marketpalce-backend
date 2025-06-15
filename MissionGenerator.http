@@ -1,0 +1,6 @@
+@MissionGenerator_HostAddress = http://localhost:5205
+
+GET {{MissionGenerator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

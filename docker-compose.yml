@@ -1,0 +1,29 @@
+version: "3.8"
+
+services:
+  frontend:
+    image: front:latest # Replace with your actual built frontend image
+    ports:
+      - "80:80"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://backend:5205
+    depends_on:
+      - backend
+    networks:
+      - appnet
+
+  backend:
+    image: backend:v1 # Replace with your actual built backend image
+    ports:
+      - "5205:5205"
+      
+    environment:
+      - CORS_ORIGIN=http://frontend
+      - ASPNETCORE_URLS=http://+:5205
+      -  GEMINI__APIKEY=AIzaSyC7XdLltD1NB6Iwa7ffNBkB7ZsZK9ONRo8
+    networks:
+      - appnet
+
+networks:
+  appnet:
+    driver: bridge

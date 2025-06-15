@@ -1,0 +1,12 @@
+C:\Users\ayman\Desktop\voice-processing\mission-generator-frontend\backend\app\publish\MissionGenerator.exe
+C:\Users\ayman\Desktop\voice-processing\mission-generator-frontend\backend\app\publish\appsettings.Development.json
+C:\Users\ayman\Desktop\voice-processing\mission-generator-frontend\backend\app\publish\appsettings.json
+C:\Users\ayman\Desktop\voice-processing\mission-generator-frontend\backend\app\publish\MissionGenerator.dll
+C:\Users\ayman\Desktop\voice-processing\mission-generator-frontend\backend\app\publish\MissionGenerator.deps.json
+C:\Users\ayman\Desktop\voice-processing\mission-generator-frontend\backend\app\publish\MissionGenerator.runtimeconfig.json
+C:\Users\ayman\Desktop\voice-processing\mission-generator-frontend\backend\app\publish\MissionGenerator.pdb
+C:\Users\ayman\Desktop\voice-processing\mission-generator-frontend\backend\app\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ayman\Desktop\voice-processing\mission-generator-frontend\backend\app\publish\Microsoft.OpenApi.dll
+C:\Users\ayman\Desktop\voice-processing\mission-generator-frontend\backend\app\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ayman\Desktop\voice-processing\mission-generator-frontend\backend\app\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ayman\Desktop\voice-processing\mission-generator-frontend\backend\app\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
